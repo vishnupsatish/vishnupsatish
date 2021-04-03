@@ -3,7 +3,7 @@
 
 I'm Vishnu!
 
-I'm looking for full-stack and web development opportunities and/or internships.
+I'm looking for software development opportunities and/or internships.
 
 I'm also open to collaborate on projects or just talk about programming (or anything)! Feel free to drop me an email at vishnupavan.satish@gmail.com.
 
