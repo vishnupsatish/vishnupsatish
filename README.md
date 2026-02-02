@@ -1,7 +1,9 @@
 
 ### Hi there 👋
 
-I am currently a deep learning compiler engineer intern at Huawei Canada, where I am developing algorithms in C++ 20 for compiler optimization and verification. In the past, I interned at Sentry and worked on applied AI features.
+I'm currently working on [MicroTensor](https://github.com/vishnupsatish/microtensor), a deep learning library and GPT2 implementation from scratch in C++.
+
+In the past, I interned at Huawei Canada, where I developed algorithms for an ML compiler in C++ 20. I also interned at Sentry, where I worked on applied AI features.
 
 #### Links
 LinkedIn: [linkedin.com/in/vishnupsatish](https://www.linkedin.com/in/vishnupsatish)\
