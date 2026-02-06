@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-I'm currently working on [MicroTensor](https://github.com/vishnupsatish/microtensor), a deep learning library and GPT2 implementation from scratch in C++.
+I'm currently working on [MicroTensor](https://github.com/vishnupsatish/microtensor), a deep learning library and GPT-2 implementation from scratch in C++.
 
 In the past, I interned at Huawei Canada, where I developed algorithms for an ML compiler in C++ 20. I also interned at Sentry, where I worked on applied AI features.
 
