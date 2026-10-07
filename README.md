@@ -1,9 +1,15 @@
 
 ### Hi there 👋
 
-I'm currently working on [MicroTensor](https://github.com/vishnupsatish/microtensor), a deep learning library and GPT-2 implementation from scratch in C++.
+I've worked on a variety of things throughout my internships:
+- 3D scene reconstruction at Waabi
+- Deep learning compiler development at Huawei
+- Applied AI products at Ramp & Sentry
+- Full-stack engineering at Primer
 
-In the past, I interned at Huawei Canada, where I developed algorithms for an ML compiler in C++ 20. I also interned at Sentry, where I worked on applied AI features.
+Alongside that, some other interesting things I've done include:
+- MicroTensor: a deep learning library and GPT-2 from scratch in C++20
+- Competitive programming: 2x Canadian Computing Competition Senior Honour Roll, top rated Expert on Codeforces
 
 #### Links
 LinkedIn: [linkedin.com/in/vishnupsatish](https://www.linkedin.com/in/vishnupsatish)\
